@@ -1,0 +1,1 @@
+boolean addCourse(String course)
